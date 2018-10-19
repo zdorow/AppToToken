@@ -5,7 +5,7 @@ from tkinter import *
 from tkinter import messagebox
 from requests.exceptions import ConnectionError
 
-api_token_test = 'eyJleHBEYXRlIjoiMjAxOS0xMC0xN1QxMjo0MTo1NS0wNzAwIiwidG9rZW4iOiJtMHZMU0tqSnBEbzJMc1VDSFdweHN4UTdvcUJKVTg4WWgyUDhqUHc4TGxWcXlDdFFWWC9SMWVGTlJWbTV5TWMvWklVdXFNdDI5Lzc0YmFyVUxjWW1iY1lrN3NXZHBlR2xjRmthRDg4Q1c1eWNReGNRc2xQWVFGdVdxY3ljajNYUyIsIm9yZ05hbWUiOiJLZW5pbHdvcnRoIFNjaG9vbCBEaXN0cmljdCAzOCJ9'
+api_token_test = ''
 adam_id_test = "360593556"
 # api_url_test = 'https://vpp.itunes.apple.com/WebObjects/MZFinance.woa/wa/getVPPAssetsSrv?sToken=' + api_token + \
 #                '&includeLicenseCounts=' + adam_id
